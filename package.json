@@ -1,0 +1,21 @@
+{
+  "name": "form-data-generator",
+  "version": "1.0.0",
+  "description": "`FormDataGenerator` is a JavaScript class designed to simplify the creation and management of `FormData` objects, allowing for easy handling of file uploads and chunked data in both Node.js and browser environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/marcuwynu23/form-data-generator"
+  },
+  "keywords": [
+    "form-data",
+    "chunk",
+    "upload",
+    "axios"
+  ],
+  "author": "Mark Wayne Menorca",
+  "license": "MIT"
+}
