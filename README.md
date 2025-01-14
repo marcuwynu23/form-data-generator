@@ -1,4 +1,13 @@
-# FormDataGenerator
+<div align="center">
+  <h1> FormData Generator </h1>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/marcuwynu23/form-data-generator.svg" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/marcuwynu23/form-data-generator.svg" alt="Forks Badge"/>
+  <img src="https://img.shields.io/github/issues/marcuwynu23/form-data-generator.svg" alt="Issues Badge"/>
+  <img src="https://img.shields.io/github/license/marcuwynu23/form-data-generator.svg" alt="License Badge"/>
+</p>
 
 `FormDataGenerator` is a JavaScript class designed to simplify the creation and management of `FormData` objects, allowing for easy handling of file uploads and chunked data in both Node.js and browser environments.
 
